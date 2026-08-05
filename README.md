@@ -1,5 +1,5 @@
 # 👋 About Me:
-My name is Braiden, i am a 23-year old developer from South Australia.<br>Working on apps, games & web projects.
+My name is Braiden, i am a 24-year old developer from South Australia.<br>Working on apps, games & web projects.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braidenjh/) 
